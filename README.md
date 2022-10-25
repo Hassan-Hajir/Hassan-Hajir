@@ -26,6 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-hajir&show_icons=true&locale=en&layout=compact" alt="hassan-hajir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-hajir&show_icons=true&locale=en" alt="hassan-hajir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-hajir&" alt="hassan-hajir" /></p>
