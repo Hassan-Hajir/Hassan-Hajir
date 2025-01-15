@@ -37,6 +37,9 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
+  </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a> 
@@ -57,9 +60,6 @@
   </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/> 
   </a> 
 </p>
 
