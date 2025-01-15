@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Hassan Hajir</h1>
-<h3 align="center">A passionate software engineer from Kenya with interest in solving real-world problems with technology and dependable leadership</h3>
+<h3 align="center">A passionate Data Scientist from Kenya with interest in solving real-world problems with technology and dependable leadership</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-hajir&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-hajir" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hassan_m_hajir" target="blank"><img src="https://img.shields.io/twitter/follow/hassan_m_hajir?logo=twitter&style=for-the-badge" alt="hassan_m_hajir" /></a> </p>
 
-- 🔭 I’m currently working on **ALX SE projects**
+- 🔭 I’m currently working on **ML projects**
 
-- 🌱 I’m currently learning **Python, JavaScript and React**
+- 🌱 I’m currently learning **Data Analytics, Machine Learning, Python, and AWS**
 
-- 🤝 I’m looking for help with **Coding in Python and Javascript**
+- 🤝 I’m looking for help with **Coding Data Science**
 
 - 📫 How to reach me **hashajir@gmail.com**
 
