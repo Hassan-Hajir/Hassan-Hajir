@@ -50,7 +50,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.svg" alt="scikit-learn" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
+  </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/> 
   </a> 
 </p>
 
