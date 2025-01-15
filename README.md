@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning, Python, and AWS**
 
-- 🤝 I’m looking for help with **Coding Data Science**
+- 🤝 I’m looking for help with **Coding, Data Science and Machine Learing**
 
 - 📫 How to reach me **hashajir@gmail.com**
 
